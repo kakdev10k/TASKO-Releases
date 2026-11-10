@@ -7,7 +7,7 @@ Download **Setup.exe** from the [latest release](https://github.com/kakdev10k/TA
 Windows x64. The installer is currently unsigned; Windows may show SmartScreen.
 
 **v1.0.1 is the first published release and automatic-update baseline.** If using
-an earlier local build, install v1.0.1 once. Later stable updates are checked and
+an earlier local build, install the latest Setup once. Stable updates are checked and
 downloaded automatically in the installed app. Open Settings → Update for status
 or Restart & install. The app never forces a restart during work.
 
